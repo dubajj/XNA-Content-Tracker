@@ -66,6 +66,7 @@
     <Compile Include="AssetTracker.cs" />
     <Compile Include="ContentTracker.cs" />
     <Compile Include="ContentTrackerAsync.cs" />
+    <Compile Include="Extensions.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
